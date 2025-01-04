@@ -1,2 +1,2 @@
-# ChatGpt-3.0-Mode
-This project is essentially a way to create ChatGpt 3.0 with less nodes, but still keep similar performance. 
+# Basic-Language-Model-with-Multi-Headed-Attention-Blocks
+This project is essentially a way to understand and implement a Language Model with Transformers and Multi-Headed Attention Blocks. 
