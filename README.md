@@ -110,15 +110,20 @@ Our fair, or fair mother stain past them honest Upon my wintous, grow, kneel day
 Be not to grant, if supple her friends, And play with this morn ere shall be practised.
 
 GLOUCESTER:
+
 Think, must not I do but do my sweet word.
 
 Servant:
+
 Had I they dropp'd here.
 
 QUEEN ELIZABETH:
+
 My liege; for I love none like apUful the stabble They denied the steuntations, And now these patrons wildle whate'er graced
 And handly bear it. Why, ho! What, art your cozn hand That we should to Mantague'?
 Or am I a pro
+
+### Summary:
 
 As expected, the model's output is not very meaningful. This is partly due to the nature of the input data used for predictions, but it is primarily because this is a smaller model. Additionally, as we can see from the results, the model suffered from overfitting. Its limited capacity affects its ability to generate coherent results. 
 
